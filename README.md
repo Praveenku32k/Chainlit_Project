@@ -6,3 +6,4 @@ Chainlit_Project
 ```
 https://docs.chainlit.io/get-started/overview
 ```
+# conda activate "C:\Users\Praveen Kumar\Desktop\Chainlit_Project\env"
